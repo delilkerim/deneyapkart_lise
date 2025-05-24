@@ -1,4 +1,5 @@
-# DC ve Servo Motorların Kullanımı 
+# 6. HAFTA KONULARI
+## DC ve Servo Motorların Kullanımı 
 - DC motorların çalışma prensibi
 - Deneyap Kart IDE üzerinde DC motorları çalıştırma ve programlama
 - Servo motorların çalışma prensibi
